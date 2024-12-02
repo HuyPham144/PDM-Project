@@ -1,2 +1,4 @@
-# PDM-Project
-The github PDM project of Mrs. Thuy Loan class. Group 2
+# Principle of Database and Management Project
+Online CVs builder
+About the project 
+
