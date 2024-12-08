@@ -16,5 +16,3 @@ Comments Section: Users can leave feedback or notes.
 The system uses Microsoft SQL Server with six relational tables to store and manage data.
 
 This project emphasizes modular programming for reusability, scalability, and streamlined development. Ideal for anyone aiming to streamline CV management!
-
-[Download Video](./C:\Users\Rog Z\Videos\Captures\Group2_OnlineCVBuilder.mp4/video.mp4)
