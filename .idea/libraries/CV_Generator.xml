@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CV_Generator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CV Generator/dist/CV_Generator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
